@@ -1,0 +1,8 @@
+C:\Users\ZY196UX\source\repos\Zemoga\Zemoga.DTO\bin\Debug\netcoreapp3.1\Zemoga.DTO.deps.json
+C:\Users\ZY196UX\source\repos\Zemoga\Zemoga.DTO\bin\Debug\netcoreapp3.1\Zemoga.DTO.dll
+C:\Users\ZY196UX\source\repos\Zemoga\Zemoga.DTO\bin\Debug\netcoreapp3.1\Zemoga.DTO.pdb
+C:\Users\ZY196UX\source\repos\Zemoga\Zemoga.DTO\obj\Debug\netcoreapp3.1\Zemoga.DTO.AssemblyInfoInputs.cache
+C:\Users\ZY196UX\source\repos\Zemoga\Zemoga.DTO\obj\Debug\netcoreapp3.1\Zemoga.DTO.AssemblyInfo.cs
+C:\Users\ZY196UX\source\repos\Zemoga\Zemoga.DTO\obj\Debug\netcoreapp3.1\Zemoga.DTO.dll
+C:\Users\ZY196UX\source\repos\Zemoga\Zemoga.DTO\obj\Debug\netcoreapp3.1\Zemoga.DTO.pdb
+C:\Users\ZY196UX\source\repos\Zemoga\Zemoga.DTO\obj\Debug\netcoreapp3.1\Zemoga.DTO.csprojAssemblyReference.cache

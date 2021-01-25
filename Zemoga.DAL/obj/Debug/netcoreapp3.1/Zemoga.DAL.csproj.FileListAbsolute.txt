@@ -1,0 +1,10 @@
+C:\Users\ZY196UX\source\repos\Zemoga\Zemoga.DAL\bin\Debug\netcoreapp3.1\Zemoga.DAL.deps.json
+C:\Users\ZY196UX\source\repos\Zemoga\Zemoga.DAL\bin\Debug\netcoreapp3.1\Zemoga.DAL.dll
+C:\Users\ZY196UX\source\repos\Zemoga\Zemoga.DAL\obj\Debug\netcoreapp3.1\Zemoga.DAL.AssemblyInfoInputs.cache
+C:\Users\ZY196UX\source\repos\Zemoga\Zemoga.DAL\obj\Debug\netcoreapp3.1\Zemoga.DAL.AssemblyInfo.cs
+C:\Users\ZY196UX\source\repos\Zemoga\Zemoga.DAL\obj\Debug\netcoreapp3.1\Zemoga.DAL.csprojAssemblyReference.cache
+C:\Users\ZY196UX\source\repos\Zemoga\Zemoga.DAL\bin\Debug\netcoreapp3.1\Zemoga.DAL.runtimeconfig.json
+C:\Users\ZY196UX\source\repos\Zemoga\Zemoga.DAL\bin\Debug\netcoreapp3.1\Zemoga.DAL.runtimeconfig.dev.json
+C:\Users\ZY196UX\source\repos\Zemoga\Zemoga.DAL\bin\Debug\netcoreapp3.1\Zemoga.DAL.pdb
+C:\Users\ZY196UX\source\repos\Zemoga\Zemoga.DAL\obj\Debug\netcoreapp3.1\Zemoga.DAL.dll
+C:\Users\ZY196UX\source\repos\Zemoga\Zemoga.DAL\obj\Debug\netcoreapp3.1\Zemoga.DAL.pdb

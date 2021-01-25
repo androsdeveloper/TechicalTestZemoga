@@ -1,0 +1,13 @@
+C:\Users\ZY196UX\source\repos\Zemoga\Zemoga.Business\bin\Debug\netcoreapp3.1\Zemoga.Business.deps.json
+C:\Users\ZY196UX\source\repos\Zemoga\Zemoga.Business\bin\Debug\netcoreapp3.1\Zemoga.Business.dll
+C:\Users\ZY196UX\source\repos\Zemoga\Zemoga.Business\bin\Debug\netcoreapp3.1\Zemoga.Business.pdb
+C:\Users\ZY196UX\source\repos\Zemoga\Zemoga.Business\bin\Debug\netcoreapp3.1\Zemoga.DAL.dll
+C:\Users\ZY196UX\source\repos\Zemoga\Zemoga.Business\bin\Debug\netcoreapp3.1\Zemoga.DAL.pdb
+C:\Users\ZY196UX\source\repos\Zemoga\Zemoga.Business\obj\Debug\netcoreapp3.1\Zemoga.Business.csprojAssemblyReference.cache
+C:\Users\ZY196UX\source\repos\Zemoga\Zemoga.Business\obj\Debug\netcoreapp3.1\Zemoga.Business.AssemblyInfoInputs.cache
+C:\Users\ZY196UX\source\repos\Zemoga\Zemoga.Business\obj\Debug\netcoreapp3.1\Zemoga.Business.AssemblyInfo.cs
+C:\Users\ZY196UX\source\repos\Zemoga\Zemoga.Business\obj\Debug\netcoreapp3.1\Zemoga.Business.csproj.CopyComplete
+C:\Users\ZY196UX\source\repos\Zemoga\Zemoga.Business\obj\Debug\netcoreapp3.1\Zemoga.Business.dll
+C:\Users\ZY196UX\source\repos\Zemoga\Zemoga.Business\obj\Debug\netcoreapp3.1\Zemoga.Business.pdb
+C:\Users\ZY196UX\source\repos\Zemoga\Zemoga.Business\bin\Debug\netcoreapp3.1\Zemoga.DTO.dll
+C:\Users\ZY196UX\source\repos\Zemoga\Zemoga.Business\bin\Debug\netcoreapp3.1\Zemoga.DTO.pdb

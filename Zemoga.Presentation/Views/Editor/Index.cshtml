@@ -1,0 +1,59 @@
+﻿@model IEnumerable<Zemoga.DTO.Post>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdPost)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Rejected)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Published)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Content)
+            </th>
+            <th>
+                Writer
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <h1>Pending approvals</h1>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdPost)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Rejected)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Published)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Content)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.nameWriter)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.IdPost })
+                    @Html.ActionLink("Details", "Details", new { id = item.IdPost })
+                    @Html.ActionLink("Delete", "Delete", new { id = item.IdPost })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

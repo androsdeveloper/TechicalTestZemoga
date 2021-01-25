@@ -1,0 +1,71 @@
+﻿@model Zemoga.DTO.GeneralPostComments
+
+@{
+    ViewData["Title"] = "Details";
+}
+<table>
+    <h1>Details</h1>
+
+    <div>
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Post.IdPost)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Post.IdPost)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Post.Title)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Post.Title)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Post.Content)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Post.Content)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Post.IdWriter)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Post.IdWriter)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Post.DatePublished)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Post.DatePublished)
+            </dd>
+        </dl>
+    </div>
+    <div>
+        <p>
+            @Html.ActionLink("Add New Comment", "Create", new { idPost = Model.Post.IdPost }) |
+
+        </p>
+    </div>
+    <div>
+        <a asp-action="Index">Back to List</a>
+    </div>
+    <tbody>
+        <div>
+            <h1>Comments users</h1>
+            <table>
+            @foreach (var item in Model.CommentList)
+            {
+                <tr class="px-2 mt-1 border">
+                    <td>
+                        @Html.DisplayFor(modelItem => item.UserComment)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CreateDate)
+                    </td>
+                </tr>
+            }
+                </table>
+        </div>
+    </tbody>
+</table>
